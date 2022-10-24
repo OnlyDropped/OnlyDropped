@@ -1,4 +1,4 @@
-# Hi Hello! I'm Alexey. ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hello! I'm Alexey. ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### HTML-coder
 
 <!--
